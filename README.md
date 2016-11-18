@@ -2,4 +2,6 @@
 
 this one-liner should do it:
 
- curl https://raw.githubusercontent.com/thepler/rkt-install-deb/master/install-rkt.sh | bash
+```
+curl https://raw.githubusercontent.com/thepler/rkt-install-deb/master/install-rkt.sh | bash
+```
